@@ -29,7 +29,7 @@
         "Author": "a cat",
         "Name": "OopsAllNaked",
         "InternalName": "OopsAllNaked",
-        "AssemblyVersion": "2.0.2.5",
+        "AssemblyVersion": "2.0.2.6",
         "Description": "Turn everyone around you into a nudist.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/senko-forks/OopsAllNaked",
@@ -37,14 +37,14 @@
           "lalafells",
           "nudism"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/senko-forks/OopsAllNaked/refs/heads/main/image/icon.png",
         "Punchline": "Turn everyone around you into a nudist.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.5/OopsAllNaked.zip",
-        "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.5/OopsAllNaked.zip",
-        "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.5/OopsAllNaked.zip"
+        "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.6/OopsAllNaked.zip",
+        "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.6/OopsAllNaked.zip",
+        "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.6/OopsAllNaked.zip"
     }
 ]
