@@ -46,5 +46,27 @@
         "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.6/OopsAllNaked.zip",
         "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.6/OopsAllNaked.zip",
         "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.6/OopsAllNaked.zip"
+    },
+    {
+        "Author": "a cat",
+        "Name": "PalaceBuddy",
+        "InternalName": "PalaceBuddy",
+        "AssemblyVersion": "0.0.0.1",
+        "Description": "Efficient PalacePal reimplementation",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/helpful-fox-senko-san/PalaceBuddy",
+        "Tags": [
+          "splatoon",
+          "potd",
+          "hoh"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadPriority": 0,
+        "Punchline": "A cool circle drawer for deep dungeons.",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.0.1/PalaceBuddy-v0.0.0.1.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.0.1/PalaceBuddy-v0.0.0.1.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.0.1/PalaceBuddy-v0.0.0.1.zip"
     }
 ]
