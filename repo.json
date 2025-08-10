@@ -26,10 +26,10 @@
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.8.7/CatScan-v0.9.8.7.zip"
     },
     {
-        "Author": "a cat",
+        "Author": "Avaflow, Ars Magna, Kelvin",
         "Name": "OopsAllNaked",
         "InternalName": "OopsAllNaked",
-        "AssemblyVersion": "2.0.2.6",
+        "AssemblyVersion": "2.0.2.7",
         "Description": "Turn everyone around you into a nudist.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/senko-forks/OopsAllNaked",
@@ -37,15 +37,15 @@
           "lalafells",
           "nudism"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/senko-forks/OopsAllNaked/refs/heads/main/image/icon.png",
         "Punchline": "Turn everyone around you into a nudist.",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.6/OopsAllNaked.zip",
-        "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.6/OopsAllNaked.zip",
-        "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.6/OopsAllNaked.zip"
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.7/OopsAllNaked-v2.0.2.7.zip",
+        "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.7/OopsAllNaked-v2.0.2.7.zip",
+        "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.7/OopsAllNaked-v2.0.2.7.zip"
     },
     {
         "Author": "a cat",
