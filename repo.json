@@ -51,7 +51,7 @@
         "Author": "a cat",
         "Name": "PalaceBuddy",
         "InternalName": "PalaceBuddy",
-        "AssemblyVersion": "0.0.1.1",
+        "AssemblyVersion": "0.0.1.2",
         "Description": "Efficient PalacePal reimplementation",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/helpful-fox-senko-san/PalaceBuddy",
@@ -66,9 +66,9 @@
         "Punchline": "A cool circle drawer for deep dungeons.",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.1.1/PalaceBuddy-v0.0.1.1.zip",
-        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.1.1/PalaceBuddy-v0.0.1.1.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.1.1/PalaceBuddy-v0.0.1.1.zip"
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.1.2/PalaceBuddy-v0.0.1.2.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.1.2/PalaceBuddy-v0.0.1.2.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.1.2/PalaceBuddy-v0.0.1.2.zip"
     },
     {
         "Author": "a cat",
