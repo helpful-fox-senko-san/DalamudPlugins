@@ -52,6 +52,7 @@
         "Name": "PalaceBuddy",
         "InternalName": "PalaceBuddy",
         "AssemblyVersion": "0.0.2.1",
+        "TestingAssemblyVersion": "0.0.3.0",
         "Description": "A cool circle drawer for deep dungeons.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/helpful-fox-senko-san/PalaceBuddy",
@@ -61,13 +62,14 @@
           "hoh"
         ],
         "DalamudApiLevel": 14,
+        "TestingDalamudApiLevel": 14,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/helpful-fox-senko-san/PalaceBuddy/master/Resources/icon.png",
         "Punchline": "A cool circle drawer for deep dungeons.",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.2.1/PalaceBuddy-v0.0.2.1.zip",
-        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.2.1/PalaceBuddy-v0.0.2.1.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.3.0/PalaceBuddy-v0.0.3.0.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.2.1/PalaceBuddy-v0.0.2.1.zip"
     },
     {
