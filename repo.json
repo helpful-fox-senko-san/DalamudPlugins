@@ -76,21 +76,21 @@
         "Author": "a cat",
         "Name": "OnlyTurbo",
         "InternalName": "OnlyTurbo",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.3",
         "Description": "Turbo hotbar buttons.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/helpful-fox-senko-san/OnlyTurbo",
         "Tags": [
           "hotbar"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "LoadPriority": 0,
         "Punchline": "Turbo hotbar buttons.",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.2/OnlyTurbo-v0.0.0.2.zip",
-        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.2/OnlyTurbo-v0.0.0.2.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.2/OnlyTurbo-v0.0.0.2.zip"
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip"
     },
     {
         "Author": "SheepGoMeh",
