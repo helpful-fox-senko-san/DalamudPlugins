@@ -96,7 +96,7 @@
         "Author": "SheepGoMeh",
         "Name": "LopVisibility",
         "InternalName": "LopVisibility",
-        "AssemblyVersion": "1.1.9.3",
+        "AssemblyVersion": "1.1.9.6",
         "Description": "Customized version of Visibility plugin.\n\nAllows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/senko-forks/LopVisibility",
@@ -111,14 +111,14 @@
           "Loporrit",
           "Mare"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/senko-forks/LopVisibility/master/res/icon.png",
         "Punchline": "Customized version of Visibility plugin.",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.3/LopVisibility-v1.1.9.3.zip",
-        "DownloadLinkTesting": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.3/LopVisibility-v1.1.9.3.zip",
-        "DownloadLinkUpdate": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.3/LopVisibility-v1.1.9.3.zip"
+        "DownloadLinkInstall": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.6/LopVisibility-v1.1.9.6.zip",
+        "DownloadLinkTesting": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.6/LopVisibility-v1.1.9.6.zip",
+        "DownloadLinkUpdate": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.6/LopVisibility-v1.1.9.6.zip"
     }
 ]
