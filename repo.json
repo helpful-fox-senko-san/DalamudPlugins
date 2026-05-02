@@ -29,7 +29,7 @@
         "Author": "Avaflow, Ars Magna, Kelvin",
         "Name": "OopsAllNaked",
         "InternalName": "OopsAllNaked",
-        "AssemblyVersion": "2.0.2.8",
+        "AssemblyVersion": "2.0.2.10",
         "Description": "Turn everyone around you into a nudist.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/senko-forks/OopsAllNaked",
@@ -37,15 +37,15 @@
           "lalafells",
           "nudism"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/senko-forks/OopsAllNaked/refs/heads/main/image/icon.png",
         "Punchline": "Turn everyone around you into a nudist.",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.8/OopsAllNaked-v2.0.2.8.zip",
-        "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.8/OopsAllNaked-v2.0.2.8.zip",
-        "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.8/OopsAllNaked-v2.0.2.8.zip"
+        "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
+        "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
+        "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip"
     },
     {
         "Author": "a cat",
