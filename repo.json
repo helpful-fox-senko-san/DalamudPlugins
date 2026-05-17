@@ -23,7 +23,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.0/CatScan-v0.9.11.0.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.0/CatScan-v0.9.11.0.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.0/CatScan-v0.9.11.0.zip"
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.0/CatScan-v0.9.11.0.zip",
+        "DownloadCount": 2114
     },
     {
         "Author": "Avaflow, Ars Magna, Kelvin",
@@ -45,7 +46,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
         "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
-        "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip"
+        "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
+        "DownloadCount": 480
     },
     {
         "Author": "a cat",
@@ -70,7 +72,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip"
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
+        "DownloadCount": 760
     },
     {
         "Author": "a cat",
@@ -90,7 +93,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip"
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
+        "DownloadCount": 47
     },
     {
         "Author": "SheepGoMeh",
@@ -119,6 +123,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkInstall": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.6/LopVisibility-v1.1.9.6.zip",
         "DownloadLinkTesting": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.6/LopVisibility-v1.1.9.6.zip",
-        "DownloadLinkUpdate": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.6/LopVisibility-v1.1.9.6.zip"
+        "DownloadLinkUpdate": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.6/LopVisibility-v1.1.9.6.zip",
+        "DownloadCount": 88
     }
 ]
