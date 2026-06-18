@@ -21,7 +21,7 @@
         "Punchline": "A cute hunt mark scanner",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2117,
+        "DownloadCount": 2132,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.1/CatScan-v0.9.11.1.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.1/CatScan-v0.9.11.1.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.1/CatScan-v0.9.11.1.zip"
@@ -47,7 +47,7 @@
         "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
         "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
         "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
-        "DownloadCount": 487
+        "DownloadCount": 493
     },
     {
         "Author": "a cat",
@@ -73,7 +73,7 @@
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
-        "DownloadCount": 764
+        "DownloadCount": 765
     },
     {
         "Author": "a cat",
@@ -100,7 +100,7 @@
         "Author": "SheepGoMeh",
         "Name": "LopVisibility",
         "InternalName": "LopVisibility",
-        "AssemblyVersion": "1.1.9.7",
+        "AssemblyVersion": "1.1.9.8",
         "Description": "Customized version of Visibility plugin.\n\nAllows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/senko-forks/LopVisibility",
@@ -121,9 +121,9 @@
         "Punchline": "Customized version of Visibility plugin.",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 93,
-        "DownloadLinkInstall": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.7/LopVisibility-v1.1.9.7.zip",
-        "DownloadLinkTesting": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.7/LopVisibility-v1.1.9.7.zip",
-        "DownloadLinkUpdate": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.7/LopVisibility-v1.1.9.7.zip"
+        "DownloadCount": 97,
+        "DownloadLinkInstall": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.8/LopVisibility-v1.1.9.8.zip",
+        "DownloadLinkTesting": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.8/LopVisibility-v1.1.9.8.zip",
+        "DownloadLinkUpdate": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.8/LopVisibility-v1.1.9.8.zip"
     }
 ]
