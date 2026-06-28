@@ -21,7 +21,7 @@
         "Punchline": "A cute hunt mark scanner",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2132,
+        "DownloadCount": 2134,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.1/CatScan-v0.9.11.1.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.1/CatScan-v0.9.11.1.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.11.1/CatScan-v0.9.11.1.zip"
@@ -47,7 +47,7 @@
         "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
         "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
         "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
-        "DownloadCount": 493
+        "DownloadCount": 496
     },
     {
         "Author": "a cat",
@@ -73,7 +73,7 @@
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
-        "DownloadCount": 765
+        "DownloadCount": 766
     },
     {
         "Author": "a cat",
@@ -94,7 +94,7 @@
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
-        "DownloadCount": 47
+        "DownloadCount": 48
     },
     {
         "Author": "SheepGoMeh",
@@ -121,9 +121,32 @@
         "Punchline": "Customized version of Visibility plugin.",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 97,
+        "DownloadCount": 101,
         "DownloadLinkInstall": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.9/LopVisibility-v1.1.9.9.zip",
         "DownloadLinkTesting": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.9/LopVisibility-v1.1.9.9.zip",
         "DownloadLinkUpdate": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.9/LopVisibility-v1.1.9.9.zip"
+    },
+    {
+        "Author": "a cat",
+        "Name": "Falooping",
+        "InternalName": "Falooping",
+        "AssemblyVersion": "0.0.0.1",
+        "Description": "Hunt notifications via Faloop!\n\nFalooping is not associated with or sanctioned by Faloop! or its creator.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/helpful-fox-senko-san/Falooping",
+        "Tags": [
+          "hunt",
+          "tracker",
+          "sonar"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/helpful-fox-senko-san/Falooping/master/icon.png",
+        "Punchline": "Hunt notifications via Faloop!",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.1/Falooping-v0.0.0.1.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.1/Falooping-v0.0.0.1.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.1/Falooping-v0.0.0.1.zip"
     }
 ]
