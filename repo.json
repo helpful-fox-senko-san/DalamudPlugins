@@ -149,5 +149,30 @@
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.2/Falooping-v0.0.0.2.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.2/Falooping-v0.0.0.2.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.2/Falooping-v0.0.0.2.zip"
+    },
+    {
+        "Author": "a cat",
+        "Name": "Phantom Job Switcher",
+        "InternalName": "PhantomJobSwitcher",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Allows configuring a customizable floating panel for switching Phantom Jobs inside of Occult Crescent zones.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher",
+        "Tags": [
+          "UI",
+          "jobs",
+          "switch",
+          "phantom",
+          "occult",
+          "crescent"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "Punchline": "Convenient one-click phantom job switching",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.0.0/PhantomJobSwitcher-v1.0.0.0.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.0.0/PhantomJobSwitcher-v1.0.0.0.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.0.0/PhantomJobSwitcher-v1.0.0.0.zip"
     }
 ]
