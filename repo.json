@@ -21,7 +21,7 @@
         "Punchline": "A cute hunt mark scanner",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2177,
+        "DownloadCount": 2194,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.12.2/CatScan-v0.9.12.2.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.12.2/CatScan-v0.9.12.2.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.12.2/CatScan-v0.9.12.2.zip"
@@ -121,7 +121,7 @@
         "Punchline": "Customized version of Visibility plugin.",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 109,
+        "DownloadCount": 110,
         "DownloadLinkInstall": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.9/LopVisibility-v1.1.9.9.zip",
         "DownloadLinkTesting": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.9/LopVisibility-v1.1.9.9.zip",
         "DownloadLinkUpdate": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.9.9/LopVisibility-v1.1.9.9.zip"
@@ -145,7 +145,7 @@
         "Punchline": "Hunt notifications via Faloop!",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 11,
+        "DownloadCount": 12,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.2/Falooping-v0.0.0.2.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.2/Falooping-v0.0.0.2.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.2/Falooping-v0.0.0.2.zip"
@@ -154,7 +154,7 @@
         "Author": "a cat",
         "Name": "Phantom Job Switcher",
         "InternalName": "PhantomJobSwitcher",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "Description": "Allows configuring a customizable floating panel for switching Phantom Jobs inside of Occult Crescent zones.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher",
@@ -168,11 +168,13 @@
         ],
         "DalamudApiLevel": 15,
         "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/helpful-fox-senko-san/PhantomJobSwitcher/master/icon.png",
         "Punchline": "Convenient one-click phantom job switching",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.0.0/PhantomJobSwitcher-v1.0.0.0.zip",
-        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.0.0/PhantomJobSwitcher-v1.0.0.0.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.0.0/PhantomJobSwitcher-v1.0.0.0.zip"
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.1.0/PhantomJobSwitcher-v1.0.1.0.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.1.0/PhantomJobSwitcher-v1.0.1.0.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.1.0/PhantomJobSwitcher-v1.0.1.0.zip"
     }
 ]
