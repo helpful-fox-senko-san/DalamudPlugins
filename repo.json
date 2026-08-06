@@ -154,7 +154,7 @@
         "Author": "a cat",
         "Name": "Phantom Job Switcher",
         "InternalName": "PhantomJobSwitcher",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.2.0",
         "Description": "Allows configuring a customizable floating panel for switching Phantom Jobs inside of Occult Crescent zones.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher",
@@ -173,8 +173,8 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.1.0/PhantomJobSwitcher-v1.0.1.0.zip",
-        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.1.0/PhantomJobSwitcher-v1.0.1.0.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.1.0/PhantomJobSwitcher-v1.0.1.0.zip"
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.2.0/PhantomJobSwitcher-v1.0.2.0.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.2.0/PhantomJobSwitcher-v1.0.2.0.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.2.0/PhantomJobSwitcher-v1.0.2.0.zip"
     }
 ]
