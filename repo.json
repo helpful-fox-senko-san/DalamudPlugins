@@ -21,7 +21,7 @@
         "Punchline": "A cute hunt mark scanner",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2195,
+        "DownloadCount": 2248,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.12.4/CatScan-v0.9.12.4.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.12.4/CatScan-v0.9.12.4.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.12.4/CatScan-v0.9.12.4.zip"
@@ -47,7 +47,7 @@
         "DownloadLinkInstall": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
         "DownloadLinkTesting": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
         "DownloadLinkUpdate": "https://github.com/senko-forks/OopsAllNaked/releases/download/OopsAllNaked-v2.0.2.10/OopsAllNaked-v2.0.2.10.zip",
-        "DownloadCount": 505
+        "DownloadCount": 513
     },
     {
         "Author": "a cat",
@@ -73,14 +73,14 @@
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.4.0/PalaceBuddy-v0.0.4.0.zip",
-        "DownloadCount": 773
+        "DownloadCount": 779
     },
     {
         "Author": "a cat",
         "Name": "OnlyTurbo",
         "InternalName": "OnlyTurbo",
-        "AssemblyVersion": "0.0.0.3",
-        "Description": "Turbo hotbar buttons.",
+        "AssemblyVersion": "0.0.0.4",
+        "Description": "Turbo horbar buttons only. Conflicts with and copied from ReAction by UnknownX7.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/helpful-fox-senko-san/OnlyTurbo",
         "Tags": [
@@ -91,10 +91,10 @@
         "Punchline": "Turbo hotbar buttons.",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
-        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.3/OnlyTurbo-v0.0.0.3.zip",
-        "DownloadCount": 49
+        "DownloadCount": 50,
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.4/OnlyTurbo-v0.0.0.4.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.4/OnlyTurbo-v0.0.0.4.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/OnlyTurbo/releases/download/OnlyTurbo-v0.0.0.4/OnlyTurbo-v0.0.0.4.zip"
     },
     {
         "Author": "SheepGoMeh",
@@ -121,7 +121,7 @@
         "Punchline": "Customized version of Visibility plugin.",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 110,
+        "DownloadCount": 156,
         "DownloadLinkInstall": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.10.0/LopVisibility-v1.1.10.0.zip",
         "DownloadLinkTesting": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.10.0/LopVisibility-v1.1.10.0.zip",
         "DownloadLinkUpdate": "https://github.com/senko-forks/LopVisibility/releases/download/LopVisibility-v1.1.10.0/LopVisibility-v1.1.10.0.zip"
@@ -145,7 +145,7 @@
         "Punchline": "Hunt notifications via Faloop!",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 12,
+        "DownloadCount": 15,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.2/Falooping-v0.0.0.2.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.2/Falooping-v0.0.0.2.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/Falooping/releases/download/Falooping-v0.0.0.2/Falooping-v0.0.0.2.zip"
@@ -172,7 +172,7 @@
         "Punchline": "Convenient one-click phantom job switching",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 2,
+        "DownloadCount": 8,
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.2.0/PhantomJobSwitcher-v1.0.2.0.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.2.0/PhantomJobSwitcher-v1.0.2.0.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PhantomJobSwitcher/releases/download/PhantomJobSwitcher-v1.0.2.0/PhantomJobSwitcher-v1.0.2.0.zip"
